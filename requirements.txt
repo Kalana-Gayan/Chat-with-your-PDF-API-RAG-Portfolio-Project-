@@ -1,0 +1,17 @@
+fastapi==0.110.0
+uvicorn[standard]==0.29.0
+pypdf==4.2.0
+langchain==0.1.16
+langchain-community==0.0.34
+# Corrected version from 0.1.4 to 1.0.4
+langchain-google-genai==1.0.4
+google-api-core==2.17.1
+langchain-chroma==0.1.0
+# Downgraded chromadb to be compatible with langchain-chroma
+chromadb==0.4.24
+tiktoken==0.6.0
+gradio==4.31.5
+requests==2.31.0
+# Corrected typo: pypantic -> pydantic
+pydantic==2.7.1
+
