@@ -154,7 +154,8 @@ Response (if successful):
 
 {
   "message": "Successfully uploaded and processed document.pdf."
-}```
+}
+```
 
 ### 2. Ask a Question
 
@@ -170,12 +171,11 @@ curl -X POST "[http://127.0.0.1:8000/ask](http://127.0.0.1:8000/ask)" \
 ```
 Response (if successful):
 ```JSON
-
 {
   "answer": "The document states that tinnitus is a persistent ringing in the ears, often associated with noise-induced hearing loss."
 }
 ```
-🌟 Next Steps
+## 🌟 Next Steps
 
 This is the core backend API. The next logical steps for this portfolio project are:
 
