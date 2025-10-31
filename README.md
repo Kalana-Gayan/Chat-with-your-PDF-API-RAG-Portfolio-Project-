@@ -8,9 +8,9 @@ This is the core technology behind the advanced "AI Document Platform" gigs you 
 
 //
 
-// *(This is where you can add your video demo once you build the UI!)*
+< *(This is where you can add your video demo once you build the UI!)*>
 
-// > [**Click Here to Watch the Full Video Demo**](https://www.google.com/search?q=VIDEO_URL_HERE)
+<  [**Click Here to Watch the Full Video Demo**](https://www.google.com/search?q=VIDEO_URL_HERE)>
 
 ## 🏛️ Architecture
 
