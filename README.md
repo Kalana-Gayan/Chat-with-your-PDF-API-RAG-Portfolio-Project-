@@ -180,5 +180,4 @@ Response (if successful):
 This is the core backend API. The next logical steps for this portfolio project are:
 
     Build a Web UI: Create a separate ui.py script using Gradio or Streamlit that provides a simple web-based chat interface that calls this API.
-
     Add Persistence: Modify the create_vector_store function to persist the ChromaDB to disk. This way, you don't have to re-upload the same document every time the server restarts.
